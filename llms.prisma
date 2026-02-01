@@ -1,7 +1,0 @@
-model Model {
-  id   Int    @id @default(autoincrement())
-  name  String
-  provider  String
-  inputPrice  Float
-  outputPrice Float
-}
